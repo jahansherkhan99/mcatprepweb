@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.quiz-container {
+    max-width: 600px;
+    margin: 40px auto;
+    text-align: center;
+}
+
+#aminoImg {
+    max-width: 300px;
+}
+
+#submitBtn {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: #FFFFFF;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#submitBtn:hover {
+    background-color: #0056b3;
+}

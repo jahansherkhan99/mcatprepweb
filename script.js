@@ -1,5 +1,5 @@
 let aminoAcids = [
-    {name: 'Alanine', imgSrc: 'alanine.png', type:'image'},
+    {name: 'Alanine', imgSrc: 'alanine.png', type:'image', },
     {name: 'Arginine', imgSrc: 'arginine.png', type:'image'},
     {name: 'Asparagine', imgSrc: 'asparagine.png', type:'image'},
     {name: 'Aspartic Acid', imgSrc: 'aspartic_acid.png', type:'image'},
